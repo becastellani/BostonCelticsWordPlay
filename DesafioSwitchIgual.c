@@ -60,7 +60,7 @@ int main(){
                                     chance = 0;
                                     contadorJay++;
                                 }
-                            if (contadorJay >= 2 && chance != 1){//verifica se a quantidade de tentativas noi foi batida
+                            if (contadorJay >= 2 && chance != 1){
                                 printf("Você não tem mais chances!\n");  
                                 chance = 1;
                                 chance2++;
@@ -99,7 +99,7 @@ int main(){
                                 chance = 0;
                                 contadorMar++;
                             }
-                        if (contadorMar >= 2 && chance != 1){//verifica se a quantidade de tentativas noi foi batida
+                        if (contadorMar >= 2 && chance != 1){
                             printf("Você não tem mais chances!\n");  
                             chance = 1;
                             chance2++;
@@ -128,7 +128,7 @@ int main(){
                                 chance = 0;
                                 contadorTitu++;
                             }
-                        if (contadorTitu >= 2 && chance != 1){//verifica se a quantidade de tentativas noi foi batida
+                        if (contadorTitu >= 2 && chance != 1){
                             printf("Você não tem mais chances!\n");  
                             chance = 1;
                             chance2++;
@@ -165,7 +165,7 @@ int main(){
                                 chance = 0;
                                 contadorBil++;
                             }
-                        if (contadorBil >= 2 && chance != 1){//verifica se a quantidade de tentativas noi foi batida
+                        if (contadorBil >= 2 && chance != 1){
                             printf("Você não tem mais chances!\n");  
                             chance = 1;
                             chance2++;
@@ -197,7 +197,7 @@ int main(){
                                 chance = 0;
                                 contadorLA++;
                             }
-                        if (contadorLA >= 2 && chance != 1){//verifica se a quantidade de tentativas noi foi batida
+                        if (contadorLA >= 2 && chance != 1){
                             printf("Você não tem mais chances!\n");  
                             chance = 1;
                             chance2++;
