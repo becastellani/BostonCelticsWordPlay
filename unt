@@ -1,0 +1,7 @@
+ printf("Escolha a pergunta que deseja responder (1 a 5): \n");
+        printf("1 - Franchise Player do Boston Celtics  |  |  |  |  |  |  |  |  |  |  |  |  |\n");
+        printf("2 - Melhor defensor do Boston Celtics  |  |  |  |  |  |  |  |  |  |  |  |  |\n");
+        printf("3 - Quantidade de titulos do Boston Celtics  |  |  |  \n");
+        printf("4 - Maior Campeao pelo Boston Celtics |  |  |  |  |  |  |  |  |  |  |\n");
+        printf("5 - Time Rival do Boston Celtics  |  |  |  |  |  |  |\n");
+        scanf("%d", &pergunta);
